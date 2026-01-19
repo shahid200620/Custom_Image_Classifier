@@ -154,16 +154,27 @@ python -m src.gradcam
 Custom_Image_Classifier/
 
 ├── data/
+
 ├── models/
+
 ├── gradcam/
+
 ├── src/
+
 │   ├── data_loader.py
+
 │   ├── baseline_cnn.py
+
 │   ├── transfer_model.py
+
 │   ├── evaluate.py
+
 │   └── gradcam.py
+
 ├── requirements.txt
+
 ├── README.md
+
 └── split_dataset.py
 
 ## ✅ Key Learnings
