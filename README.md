@@ -152,6 +152,7 @@ python -m src.gradcam
 ## 📁 Project Structure
 
 Custom_Image_Classifier/
+
 ├── data/
 ├── models/
 ├── gradcam/
