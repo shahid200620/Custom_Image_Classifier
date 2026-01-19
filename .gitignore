@@ -1,0 +1,17 @@
+# Dataset
+data/
+
+# Virtual environment (CRITICAL)
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Model files (large)
+models/*.h5
+models/*.pth
+!models/.gitkeep
+
+
+.ipynb_checkpoints/
